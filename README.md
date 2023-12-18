@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Ivan and I am a Cybersecurity Engineer. 
-- 👀 I’m interested in Application Security and Cloud Security. 
-- 🌱 I’m currently learning full-stack development with Javascript and React. 
-- 💞️ I’m looking to collaborate on Application Security and Cloud Security Projects. 
-- 📫 You can reach me at iv.tko@pm.me
+<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Software Engineer</a></h1>
 
-<!---
-ivantko/ivantko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in JavaScript](https://github.com/ivantko/Algos)
+- <b>Web Application built with Blazor (Image Analysis - Project Florence (AI), C#, .Net)</b>
+  - [Image Analysis & Generation Web App](https://github.com/ivantko) <b><i>(uses Azure OpenAI API)</b></i>
+- <b>JavaScript</b>
+  - [Full-Stack Web App Projects](https://github.com/ivantko)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="IvanTovpeko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/ivan-tko
