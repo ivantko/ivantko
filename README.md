@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
 
+<h2>:lock: Security Projects:</h2>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
