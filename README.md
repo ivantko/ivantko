@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
+<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
 
 <h2>:lock: Security Projects:</h2>
 
