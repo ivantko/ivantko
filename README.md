@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
+<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
 
 <h2>:lock: Security Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [<img align="left" alt="IvanTovpeko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/ivan-tko/
+[linkedin]: https://www.linkedin.com/in/ivan-tko/
