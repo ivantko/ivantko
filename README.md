@@ -3,7 +3,7 @@
 <h2>:lock: Security Projects:</h2>
 
 - <b>Security Tools </b>
-  - [GPU Runtime Password Cost Estimation]([https://github.com/ivantko/GPURuntimeCost](https://github.com/ivantko/GPU-Runtime-Password-Cost-Calc))
+  - [GPU Runtime Password Cost Estimation](https://github.com/ivantko/GPU-Runtime-Password-Cost-Calc)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
