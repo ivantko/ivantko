@@ -8,7 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in JavaScript](https://github.com/ivantko/Algos)
+  - [Praciting DS & Algorithms - Python and JS](https://github.com/ivantko/Algos)
 - <b>Web Application built with Blazor (Image Analysis - Project Florence (AI), C#, .Net)</b>
   - [Image Analysis & Generation Web App](https://github.com/ivantko) <b><i>(uses Azure OpenAI API)</b></i>
 - <b>JavaScript</b>
