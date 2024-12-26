@@ -1,21 +1,53 @@
-<h1>Hi, I'm Ivan! <br/><a href="https://www.linkedin.com/in/ivan-tko/">Cybersecurity Professional</a>, <a href="https://github.com/ivantko">Programmer</a></h1>
+# Ivan Tovpeko
+## Senior Security Engineer | NASA | CISSP | GCIH
 
-<h2>:lock: Security Projects:</h2>
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![CISSP](https://img.shields.io/badge/CISSP-Certified-blue)](https://www.isc2.org/Certifications/CISSP)
+[![GCIH](https://img.shields.io/badge/GCIH-Certified-green)](https://www.giac.org/certification/certified-incident-handler-gcih)
 
-- <b>Security Tools </b>
-  - [GPU Runtime Password Cost Estimation](https://github.com/ivantko/GPU-Runtime-Password-Cost-Calc)
+### 👨‍💻 About Me
+Senior Security Engineer with over a decade of experience in critical infrastructure protection and information security. Currently securing human spaceflight missions at NASA, previously protected USAF special operations systems. Passionate about cloud security, offensive security testing, and developing secure applications.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 🛡️ Expertise
+- Cloud Security & DevSecOps
+- Security Automation
+- Incident Response
+- Full Stack Development
+- Threat Detection & Hunting
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algorithms - Python and JS](https://github.com/ivantko/Algos)
-- <b>Web Application built with Blazor (Image Analysis - Project Florence (AI), C#, .Net)</b>
-  - [Image Analysis & Generation Web App](https://github.com/ivantko) <b><i>(uses Azure OpenAI API)</b></i>
-- <b>JavaScript</b>
-  - [Full-Stack Web App Projects](https://github.com/ivantko)
+### 🔭 Current Focus
+- Cloud Security Automation Tools
+- Offensive Security Research
+- Full Stack Security Projects
+- Advanced Python Development
 
-<h2> 🤳 Connect with me:</h2>
+### 🌟 Featured Projects
+- 🛡️ [Cloud Security Scanner](link) - AWS resource analyzer with security benchmarking
+- 📊 [Security Dashboard](link) - Real-time security metrics visualization
+- 🔍 [Vulnerability Framework](link) - Automated security testing suite
+- 🚀 [More projects coming soon...]
 
-[<img align="left" alt="IvanTovpeko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon...]
+<!-- BLOG-POST-LIST:END -->
 
-[linkedin]: https://www.linkedin.com/in/ivan-tko/
+### 🏆 Certifications
+- CISSP (Certified Information Systems Security Professional)
+- GCIH (GIAC Certified Incident Handler)
+- More certifications in progress...
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+
+### 📫 Connect
+- [LinkedIn]()
+- [Technical Blog](your-blog-url)
+- [Email](iv.tko@pm.me)
+
+---
+*"Security is not a product, but a process." - Bruce Schneier*
