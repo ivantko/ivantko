@@ -21,7 +21,7 @@ Senior Security Engineer with over a decade of experience in critical infrastruc
 - Full Stack Security Projects
 - Advanced Python Development
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects (in development)
 - 🛡️ [Cloud Security Scanner](link) - AWS resource analyzer with security benchmarking
 - 📊 [Security Dashboard](link) - Real-time security metrics visualization
 - 🔍 [Vulnerability Framework](link) - Automated security testing suite
