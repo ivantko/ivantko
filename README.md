@@ -9,7 +9,7 @@
 Senior Security Engineer with over a decade of experience in critical infrastructure protection and information security. Currently securing human spaceflight missions at NASA, previously protected USAF special operations systems. Passionate about cloud security, offensive security testing, and developing secure applications.
 
 ### 🛡️ Expertise
-- Cloud Security & DevSecOps
+- Security Operations
 - Security Automation
 - Incident Response
 - Full Stack Development
