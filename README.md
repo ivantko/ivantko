@@ -1,5 +1,5 @@
 # Ivan Tovpeko
-## Senior Security Engineer | NASA | CISSP | GCIH
+## Security Engineer | NASA | CISSP | GCIH
 
 [![GitHub followers](https://img.shields.io/github/followers/ivantko?style=social)](https://github.com/ivantko)
 [![CISSP](https://img.shields.io/badge/CISSP-Certified-blue)](https://www.isc2.org/Certifications/CISSP)
