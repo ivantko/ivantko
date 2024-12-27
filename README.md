@@ -1,4 +1,4 @@
-# Ivan Tovpeko
+# Ivan T.
 ## Security Engineer | NASA | CISSP | GCIH
 
 [![GitHub followers](https://img.shields.io/github/followers/ivantko?style=social)](https://github.com/ivantko)
