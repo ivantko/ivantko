@@ -45,7 +45,7 @@ Senior Security Engineer with over a decade of experience in critical infrastruc
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 
 ### 📫 Connect
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/ivan-tko/)
 - [Technical Blog](your-blog-url)
 - [Email](iv.tko@pm.me)
 
