@@ -6,7 +6,7 @@
 [![GCIH](https://img.shields.io/badge/GCIH-Certified-green)](https://www.giac.org/certification/certified-incident-handler-gcih)
 
 ### 👨‍💻 About Me
-Senior Security Engineer with over a decade of experience in critical infrastructure protection and information security. Currently securing human spaceflight missions at NASA, previously protected USAF special operations systems. Passionate about cloud security, offensive security testing, and developing secure applications.
+Security Engineer at NASA | Building secure applications and automation tools | Focused on AWS, DevOps, and offensive security
 
 ### 🛡️ Expertise
 - Security Operations
