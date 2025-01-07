@@ -35,7 +35,7 @@ Security Engineer at NASA | Building secure applications and automation tools | 
 ### 🏆 Certifications
 - CISSP (Certified Information Systems Security Professional)
 - GCIH (GIAC Certified Incident Handler)
-- More certifications in progress...
+- GCSA certification in progress...
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
