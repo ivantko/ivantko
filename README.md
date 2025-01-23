@@ -17,13 +17,10 @@ Security Engineer at NASA | Building secure applications and automation tools
 - Threat Detection & Hunting
 
 ### 🔭 Current Focus
-- Cloud Security Automation Tools
-- Offensive Security Research
-- Full Stack Security Projects
-- Advanced Python Development
+- Full Stack Security Tools
 
 ### 🌟 Featured Projects (in development)
-- 🛡️ [Cloud Security Scanner](link) - AWS resource analyzer with security benchmarking
+- 🛡️ [Quantum-Safe-Scanner](link) - risk assessment tool to get PQC compliant
 - 📊 [Security Dashboard](link) - Real-time security metrics visualization
 - 🔍 [Vulnerability Framework](link) - Automated security testing suite
 - 🚀 [More projects coming soon...]
