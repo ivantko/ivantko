@@ -10,7 +10,7 @@ Security Engineer at NASA | Building secure applications and automation tools
 
 ### 🛡️ Expertise
 - Security Operations
-- Vulenrability Assessments
+- Vulnerability Assessments
 - Security Automation
 - Incident Response
 - Full Stack Development
