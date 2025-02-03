@@ -20,7 +20,7 @@ Security Engineer at NASA | Building secure applications and automation tools
 - Full Stack Security Tools
 
 ### 🌟 Featured Projects (in development)
-- 🛡️ [Quantum-Safe-Scanner](link) - risk assessment tool to get PQC compliant
+- 🛡️ [Quantum-Safe-Scanner](https://github.com/ivantko/quantum-safe-scanner/tree/main) - risk assessment tool to get PQC compliant
 - 📊 [Security Dashboard](link) - Real-time security metrics visualization
 - 🔍 [Vulnerability Framework](link) - Automated security testing suite
 - 🚀 [More projects coming soon...]
