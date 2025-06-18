@@ -6,7 +6,7 @@
 [![GCIH](https://img.shields.io/badge/GCIH-Certified-green)](https://www.giac.org/certification/certified-incident-handler-gcih)
 
 ### 👨‍💻 About Me
-Security Engineer at NASA | Building secure applications and automation tools
+Security Engineer | Building secure applications and automation tools
 
 ### 🛡️ Expertise
 - Security Operations
