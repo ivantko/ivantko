@@ -9,21 +9,18 @@
 Security Engineer | Building secure applications and automation tools
 
 ### 🛡️ Expertise
-- Security Operations
-- Vulnerability Assessments
-- Security Automation
-- Incident Response
-- Full Stack Development
-- Threat Detection & Hunting
+- AI Engineering
+- Full Stack Web Development
+- Automation Tools
+- Detection Engineering
 
 ### 🔭 Current Focus
-- Full Stack Security Tools
+- Building something cool 
 
 ### 🌟 Featured Projects (in development)
 - 🛡️ [Quantum-Safe-Scanner](https://github.com/ivantko/quantum-safe-scanner/tree/main) - risk assessment tool to get PQC compliant
 - 📊 [Security Dashboard](link) - Real-time security metrics visualization
 - 🔍 [Vulnerability Framework](link) - Automated security testing suite
-- 🚀 [More projects coming soon...]
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
