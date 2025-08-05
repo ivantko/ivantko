@@ -15,11 +15,11 @@ Security Engineer | Building secure applications and automation tools
 - Detection Engineering
 
 ### 🔭 Current Focus
-- Building something cool 
+- building Agentic AI solutions
 
 ### 🌟 Featured Projects (in development)
 - 🛡️ [Quantum-Safe-Scanner](https://github.com/ivantko/quantum-safe-scanner/tree/main) - risk assessment tool to get PQC compliant
-- 📊 [Security Dashboard](link) - Real-time security metrics visualization
+- 📊 [GRC auditor](link) - automated, securely AI-enabled 
 - 🔍 [Vulnerability Framework](link) - Automated security testing suite
 
 ### 📝 Latest Blog Posts
