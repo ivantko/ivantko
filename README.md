@@ -4,7 +4,6 @@ Security engineer by day (CISSP, GCIH). I've been building full stack stuff on t
 
 Things I'm tinkering with:
 
-- [Remnunt](https://remnunt.com) - custom AI tools for people and small businesses
 - test gates that keep AI coding agents honest
 - a self-help chat that distills a thinker's frameworks from massive public data sets
 - options trading tools
